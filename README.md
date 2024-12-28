@@ -887,3 +887,8 @@ Some examples:
     sock.ws.on(`CB:edge_routing,id:abcd,routing_info`, (node: BinaryNode) => { })
     ```
 Also, this repo is now licenced under GPL 3 since it uses [libsignal-node](https://git.questbook.io/backend/service-coderunner/-/merge_requests/1)
+
+##Thanks To
+* [`Dimas`](https://github.com/Im-Dims)
+* [`Rappikz`](https://github.com/Rapikz-kwontwol)
+* [`My Self`](https://github.com/SyarzzNF)
