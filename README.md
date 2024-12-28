@@ -889,6 +889,8 @@ Some examples:
 Also, this repo is now licenced under GPL 3 since it uses [libsignal-node](https://git.questbook.io/backend/service-coderunner/-/merge_requests/1)
 
 ##Thanks To
+* [`WhiskeySockets`](https://github.com/WhiskeySockets)
 * [`Dimas`](https://github.com/Im-Dims)
 * [`Rappikz`](https://github.com/Rapikz-kwontwol)
+* [`Revand`](https://github.com/revandadityajw)
 * [`My Self`](https://github.com/SyarzzNF)
