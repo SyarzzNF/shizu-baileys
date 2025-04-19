@@ -1,5 +1,5 @@
 {
-  "name": "@im-dims/baileys-md",
+  "name": "shizu-baileys",
   "version": "6.6.5",
   "description": "WhatsApp API Fixed By Ssa Team", 
   "keywords": [
@@ -10,9 +10,9 @@
     "multi-device",
     "md"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys",
+  "homepage": "https://github.com/SyarzzNF/shizu-baileys",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "url": "git@github.com:SyarzzNF/shizu-baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
